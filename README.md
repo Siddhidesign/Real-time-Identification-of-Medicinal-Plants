@@ -18,6 +18,10 @@ This project is a comprehensive plant identification system that combines deep l
 
 This project supports biodiversity research and conservation efforts by providing a scalable, interactive, and educational tool for plant identification, while also encouraging user participation to refine its performance. 
 ![image](https://github.com/user-attachments/assets/83cb7aae-22eb-499e-b79b-fd4ee3abc393)
-![Screenshot 2024-04-11 222013](https://github.com/user-attachments/assets/822f7c27-defa-4609-a7c4-3cd825ccd8eb)
-![Screenshot 2024-04-11 222013](https://github.com/user-attachments/assets/b32d68e6-7d73-40a8-bf4a-9acbc9f8daf3)
+![image](https://github.com/user-attachments/assets/bc90b1a4-7172-4f76-941f-0681eb41dd56)
+![image](https://github.com/user-attachments/assets/3b7f653c-aab9-4704-aa10-0553f51f4371)
+![image](https://github.com/user-attachments/assets/7d948050-0776-4d46-be52-874620fb77b0)
+![image](https://github.com/user-attachments/assets/dfbdfb0a-3f77-4521-a818-2e21c8bda200)
+
+
 
