@@ -19,6 +19,9 @@ This project is a comprehensive plant identification system that combines deep l
 
 This project supports biodiversity research and conservation efforts by providing a scalable, interactive, and educational tool for plant identification, while also encouraging user participation to refine its performance. 
 
+1.PlantClef2016 Dataset – https://www.imageclef.org/lifeclef/2016/plant
+
+2.UBD Botanical Dataset – https://sds.ubd.edu.bn/wp-content/uploads/2021/11/UBD_45Classes.zip
 
 ![image](https://github.com/user-attachments/assets/83cb7aae-22eb-499e-b79b-fd4ee3abc393)
 ![image](https://github.com/user-attachments/assets/2464c07c-0293-4d7f-9d2d-b1487493b55d)
