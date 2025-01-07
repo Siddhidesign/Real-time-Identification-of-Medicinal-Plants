@@ -17,6 +17,8 @@ This project is a comprehensive plant identification system that combines deep l
 - **Deep Learning**: EfficientNet-B1 model for accurate plant classification, trained on public and private datasets.
 
 This project supports biodiversity research and conservation efforts by providing a scalable, interactive, and educational tool for plant identification, while also encouraging user participation to refine its performance. 
+[Real-time Identification of Medicinal Plants.pdf](https://github.com/user-attachments/files/18339568/Real-time.Identification.of.Medicinal.Plants.pdf)
+
 ![image](https://github.com/user-attachments/assets/83cb7aae-22eb-499e-b79b-fd4ee3abc393)
 ![image](https://github.com/user-attachments/assets/2464c07c-0293-4d7f-9d2d-b1487493b55d)
 ![image](https://github.com/user-attachments/assets/bc90b1a4-7172-4f76-941f-0681eb41dd56)
