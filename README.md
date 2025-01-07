@@ -25,10 +25,8 @@ This project supports biodiversity research and conservation efforts by providin
 
 ![image](https://github.com/user-attachments/assets/83cb7aae-22eb-499e-b79b-fd4ee3abc393)
 ![image](https://github.com/user-attachments/assets/2464c07c-0293-4d7f-9d2d-b1487493b55d)
-![image](https://github.com/user-attachments/assets/bc90b1a4-7172-4f76-941f-0681eb41dd56)
-![image](https://github.com/user-attachments/assets/3b7f653c-aab9-4704-aa10-0553f51f4371)
-![image](https://github.com/user-attachments/assets/7d948050-0776-4d46-be52-874620fb77b0)
-![image](https://github.com/user-attachments/assets/dfbdfb0a-3f77-4521-a818-2e21c8bda200)
+![image](https://github.com/user-attachments/assets/26c4eed6-60de-4437-a699-d0e8881b3abc)
+
 
 
 
